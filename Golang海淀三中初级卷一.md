@@ -47,3 +47,6 @@ func returnPointer() (*int) {
 
 ### Golang中的interface是处于一种怎样的设计理念？你是怎么用的？
 回答：你就说老李没用过
+
+### 唠唠Golang中的error你平时是怎么用的，有没有找到比原生更好的处理方式？
+回答：老李用过一个error包
